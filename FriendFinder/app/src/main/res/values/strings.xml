@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">Friend Finder</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+
+    <string name="userKey" translatable="false">userKey</string>
+    <string name="userName" translatable="false">username</string>
+
+    <string name="languageKey" translatable="false">languageKey</string>
+    <string name="currentLanguage" translatable="false">en</string>
+
+    <string name="registerNameInfo">"Username: "</string>
+    <string name="registerName">Name</string>
+    <string name="registerButton">Register</string>
+    <string name="loginButton">Login</string>
+
+    <string name="hintLanguage">Please restart the application to change the language</string>
+    <string name="tooShort">Too short name</string>
+
+    <string name="tabMap">Map</string>
+    <string name="tabGroup">Groups</string>
+
+    <string name="updateButton">Update</string>
+    <string name="createNewGroup">Create a new group</string>
+    <string name="nameOfGroup">Name of Group</string>
+    <string name="groupAmount">of 20 users</string>
+    <string name="groupSubscribe">Subscribe</string>
+
+    <string name="me">Me</string>
+
+    <string name="lostConnection">Can\'t reach the server. Reconnecting...</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="registerNameInfo">"Användarnamn: "</string>
+    <string name="registerName">Namn</string>
+    <string name="registerButton">Registrera</string>
+    <string name="loginButton">Logga in</string>
+
+    <string name="hintLanguage">Vänligen starta om applikationen för att ändra språket</string>
+    <string name="tooShort">Förkort namn</string>
+
+    <string name="tabMap">Karta</string>
+    <string name="tabGroup">Grupper</string>
+
+    <string name="updateButton">Uppdatera</string>
+    <string name="createNewGroup">Skapa en ny grupp</string>
+    <string name="nameOfGroup">Namn på gruppen</string>
+    <string name="groupSubscribe">Prenumerera</string>
+    <string name="groupAmount">av 20 användare</string>
+
+    <string name="me">Jag</string>
+
+    <string name="connected">Ansluten till servern!</string>
+    <string name="lostConnection">Det går inte att nå servern. Återansluter...</string>
+</resources>
