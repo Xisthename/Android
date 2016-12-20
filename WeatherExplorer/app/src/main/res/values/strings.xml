@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Weather Explorer</string>
+    <string name="title_activity_main">Weather Explorer</string>
+
+    <string name="userKey" translatable="false">userKey</string>
+    <string name="userName" translatable="false">username</string>
+
+    <string name="registerNameInfo">"Username: "</string>
+    <string name="registerName">Name</string>
+    <string name="registerButton">Register</string>
+    <string name="loginButton">Login</string>
+
+    <string name="tooShort">Too short name</string>
+
+    <string name="tabMap">Map</string>
+    <string name="tabInfo">Info</string>
+
+    <string name="howInfo">How to use:</string>
+    <string name="firstInfo">1: Press anywhere on the map</string>
+    <string name="secondInfo">2: Instantly receive the weather from a marker</string>
+    <string name="thirdInfo">3: Press anywhere to close the marker\'s info</string>
+    <string name="fourthInfo">4: Enjoy and explore the world\'s weather</string>
+</resources>
