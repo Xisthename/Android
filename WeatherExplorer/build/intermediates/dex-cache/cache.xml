@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-library-1.3_fec6c0a5a4f020a70fe60a660243542e0e09f5a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_43ba01f971db12dd61f317c71e4a44a8f7b668a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_ba920ded22c7bcb39983b738a117b38f3f68f3cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_e12e6d0d4114e97922273ba305b6feafdf370b81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_b6493ed949d85fbf52dc213613c3e4cd17b3278a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test-rules-0.5_a8bf0b01b2cfe1741d67cfef7fbda9e5873a04eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_980e19d23512715b4cffa87660d0158189281f24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_8a5ad8c75d9b1422ce0a82cdd0413a058c082e8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_bc0b5375266c4bbfa31295f3b0ae9ef502378dbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_346ff3412127de11e5fa10f988aec7bea803ea18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_824b5ef411855f1ef7bee8b3f3277a5e8f9af20c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_55f9a8296b862c2395f1c111c2c5ffb9ad38af2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_113229a6d8781728164aa99a031afb49650a26ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_bb2b3996aefc3f0bddcd398bc5063474c9fda486\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_b7d3a2c22f0de00e8d6c3486194090e875ee0ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_93235a0fd97a3c2734e3121b1af753a46577e0b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_487b4c0abf56dbadf9f05c3e76e32bc275cfdc01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_07c92d204e488e7b3534ca929ab393e3c3a4cf10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_4ba95fb7675fa68a593cc57e382164cc408a67e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d51dad93bbf072668b2f052bb745f88f731a2652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_8740e1d46e32fc0947a9fac859296b98d04a5bb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_891e46d3219eb0fc926216e6bc6bba156de6ccd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_cede9ccfab2be87b61eddfe561fc916042064491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_195a73a619ab6657f18a61d0563b883b8147cc0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test-exposed-instrumentation-api-publish-0.5_76179f84ff033ac59158a9d152294e83c629fd92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4eddf356bf0953ed8967b2571df7aab983db71d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_5b2c53df9ddcd90096c8b161e29389fc3a8487ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test.espresso-espresso-idling-resource-2.2.2_949081d2d3cf28ccda2736b935cfbf6e1304e32a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_4b4a65ca07e6cd9bc1484251ff375310b2c69829\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_0153570803f7e92ba3e27863224b0d3467b2717c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7853de8f20a8173a37b8ffab4668f260254f34dd">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_972a76a1570838e11f4c91c874e8b9b88d244111\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_d0a1843e1a9cdb55ba988e9144917a1165b05432\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.annotation-api-1.2_1fdd43164d0f7b80035e559c1453dbf87fbc507c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_6a4d2472808f1ec915de9d55137d93123eeed5a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_d0a3697a74b69e0c3627bacf8dfb7d81801cc182\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_83629f08f4f6f817fb2abc437aac9ed2c39ad9fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_5c4ed486582d2bd5f47e9e605f4d24761d075cd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_042a2eba6060b13eb7fae4121548ee2141c223ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_3e81ce1e5e0faedfbf199775fe47654f9ebecfb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_fb07af21e6646b3837f6de763d6f341bcec4ac40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_85a6bdce13dee1a44cb0535895e5979edbb7ac9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f375c5754b54e8545f5b258a4047512f7f84d27e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_c990b122d877374352a20b69340c7707aff7c498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_9e8d786c9466cebe16be6ea01fc0722247bb316c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-integration-1.3_8bc12eb009facba30e17b4aae3300debee979873\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_9abf0fd318a4d3006e2444fcb3322a608bb0c106\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5d40f292f6d8f5677c8d74a3bab7da197fc7c589">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ccf445b4451c96723acbfdbac6f8c3cb1941d181\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7ad566d5c9d495074928270541aec1d7a718c088\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ed3a0c38bc0f2b5063a8b5001ea739342d095729\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_091ba8c45a50f408cc7333b4b2f0d32155d15938\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test.espresso-espresso-core-2.2.2_3a642a3001245a436e7fc34b9fede8c178817bf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_11df40abe943a49013033db469b84c4fa4e5f346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_5a0a77b86620a55a26b86ac889cebd6397bfa3a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_fee130e4790c31ee5566909a5a319edfb7fe778e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_86e16abaf21e56504f8f945b6633c7c3b96e7fbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_296731d16c4ff12f657ab99c1d4d6bcfbf8050d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_365b672346df883793e06a4d28158589d61ef6b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_ac1c1a04e77ac2b5788bc618247b6a9b4d1edb36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_66c89c4d9a34c58363bc66b1b931e1b71d5c5bd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_c13827a1fb1eac8f451fd5a14cb6c0ab7e2a46b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_95d3e9c4a547ee206f7b018c62ea24bea9b806d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_d4b85a1acf2088c929deef2726922915c66085b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\javawriter-2.1.1_36dc2f15e4b65fc53fdecd72cb5d9e319af9710a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_7367a8f52d5c39df3d84627dad631dd941c13cc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_79ab5d310eccbe0ee6d894fc5983dea25cb80fbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_190e39685f8ff5a044f20582e0f46ec8442d5236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_9e0df557e100990b9b1227b159684fe7daa885f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_3282f842187c13fbd18cddd01d1c4d375e793d1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_b71b7d996fc614a9c8c6d59e9a2150d7f36c2121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_8ea0a447e0fbce00c0f9057ac1faddab54d556de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_15c86fee0457aacdbae494735e3a2a054d85e6d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_36362a73a1a5a0f01a4fb36ebf3994c5490726e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_07c34eed02d89d6807fc6c48693cea7df8b60d67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_52571cf645f584be4b9e031af4e56b19650290fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_37af12c34ce0a12e7376e1d27d70f32cb8de8c61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_3428a7d7d5703a4a50fce2d3412babc1251552a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_e8fa1b6332f605cc92f80450884a053938db7ad4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e0d23d0f9aa9eb796e518830f1b1ad3bd1b70dfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_ccebd75b4cbe47b84f167646334597fae3ae93c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_d82793c290be6c3c7e47945131b61c3066e229d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test-runner-0.5_11c90774f846563b6d3c49e8233eb32a2db8a486\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\xisth\AndroidStudioProjects\WeatherExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_b4b412b86476abac2c35f91e09624f368285c3a4\classes.dex" />
+    </item>
+
+</items>

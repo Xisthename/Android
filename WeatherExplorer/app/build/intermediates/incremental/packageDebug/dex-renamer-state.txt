@@ -1,0 +1,7 @@
+#Wed Nov 02 08:18:37 CET 2016
+base.0=C\:\\Users\\xisth\\AndroidStudioProjects\\WeatherExplorer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_972a76a1570838e11f4c91c874e8b9b88d244111
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\xisth\\AndroidStudioProjects\\WeatherExplorer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ccf445b4451c96723acbfdbac6f8c3cb1941d181\\classes.dex
+base.1=C\:\\Users\\xisth\\AndroidStudioProjects\\WeatherExplorer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ccf445b4451c96723acbfdbac6f8c3cb1941d181
+file.0=C\:\\Users\\xisth\\AndroidStudioProjects\\WeatherExplorer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_972a76a1570838e11f4c91c874e8b9b88d244111\\classes.dex
