@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_overall"
+            android:title="Overall"
+            android:orderInCategory="0"
+            app:showAsAction="always"
+            android:icon="@drawable/overall"/>
+        <item
+            android:id="@+id/nav_show_income"
+            android:title="Show income"
+            android:orderInCategory="0"
+            app:showAsAction="always"
+            android:icon="@drawable/showincomes"/>
+        <item
+            android:id="@+id/nav_show_expenses"
+            android:title="Show expenses"
+            android:orderInCategory="0"
+            app:showAsAction="always"
+            android:icon="@drawable/showexpenses"/>
+        <item
+            android:id="@+id/nav_add_income"
+            android:title="Add income"
+            app:showAsAction="always"
+            android:icon="@drawable/addincome"/>
+        <item
+            android:id="@+id/nav_add_expense"
+            android:title="Add expense"
+            app:showAsAction="always"
+            android:icon="@drawable/addexpense"/>
+    </group>
+</menu>

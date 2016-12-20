@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Personal Finance App</string>
+    <string name="drawerOpen">Open navigation drawer</string>
+    <string name="drawerClose">Close navigation drawer</string>
+    <string name="selectTitle">Select title:</string>
+    <string name="selectType">Select type:</string>
+    <string name="selectAmount">Select amount:</string>
+    <string name="buttonAddIncome">Add Income</string>
+    <string name="buttonAddExpense">Add Expense</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="headerIncomesText">Incomes</string>
+    <string name="headerExpensesText">Expenses</string>
+
+    <string-array name="income_array">
+        <item>Salary</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="expense_array">
+        <item>Food</item>
+        <item>Leisure</item>
+        <item>Travel</item>
+        <item>Rent</item>
+        <item>Others</item>
+    </string-array>
+</resources>

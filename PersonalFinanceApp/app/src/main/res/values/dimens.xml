@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">80dp</dimen>
+    <dimen name="nav_header_height_space">72dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="space_vertical_margin">9dp</dimen>
+    <dimen name="space_type">20dp</dimen>
+    <dimen name="buttonWidth">230dp</dimen>
+    <dimen name="headerText">32sp</dimen>
+    <dimen name="headerList">20sp</dimen>
+    <dimen name="listText">15sp</dimen>
+</resources>

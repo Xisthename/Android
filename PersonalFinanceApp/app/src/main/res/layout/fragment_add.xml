@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="@dimen/activity_horizontal_margin">
+
+        <TextView
+            android:id="@+id/incomeTitleInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/nav_header_height"
+            android:textSize="20sp"
+            android:text="@string/selectTitle"/>
+
+        <EditText
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/incomeTitleInfo"
+            android:layout_marginTop="@dimen/nav_header_height_space"
+            android:maxLines="1"
+            android:hint="Title"/>
+
+        <TextView
+            android:id="@+id/type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/titleText"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:textSize="20sp"
+            android:text="@string/selectType" />
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_type"
+            android:layout_below="@+id/titleText"
+            android:layout_toRightOf="@+id/type">
+        </Spinner>
+
+
+        <TextView
+            android:id="@+id/amountInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_below="@+id/spinner"
+            android:textSize="20sp"
+            android:text="@string/selectAmount"/>
+
+        <EditText
+            android:id="@+id/amountText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_vertical_margin"
+            android:layout_below="@+id/spinner"
+            android:layout_toRightOf="@id/amountInfo"
+            android:maxLines="1"
+            android:inputType="number"
+            android:hint="Amount"/>
+
+
+        <TextView
+            android:id="@+id/calenderInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_below="@+id/amountText"
+            android:textSize="20sp"
+            android:text="Select date:"/>
+
+        <EditText
+            android:id="@+id/calenderText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_vertical_margin"
+            android:layout_below="@+id/amountText"
+            android:layout_toRightOf="@+id/calenderInfo"
+            android:maxLines="1"
+            android:inputType="date"
+            android:maxLength="10"/>
+
+        <ImageButton
+            android:id="@+id/calenderButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/amountText"
+            android:layout_toRightOf="@+id/calenderText"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:background="@color/colorGray"/>
+
+        <Button
+            android:id="@+id/okButton"
+            android:layout_width="@dimen/buttonWidth"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/calenderButton"
+            android:layout_marginTop="@dimen/activity_vertical_margin"/>
+</RelativeLayout>
